@@ -1,0 +1,11 @@
+body {
+  background: #29566e;
+}
+
+.container {
+  width: 1024px;
+  min-height: 600px;
+  margin: 8rem auto;
+  display: grid;
+  place-items: center;
+}
